@@ -1,4 +1,4 @@
-package com.dvpermyakov.dagger.utils
+package com.dvpermyakov.graph.utils
 
 data class Instance(
     val name: String,

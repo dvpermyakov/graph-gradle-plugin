@@ -1,9 +1,9 @@
-package com.dvpermyakov.dagger.visitors
+package com.dvpermyakov.graph.visitors
 
-import com.dvpermyakov.dagger.utils.Instance
-import com.dvpermyakov.dagger.utils.parseInstance
-import com.dvpermyakov.dagger.utils.parseMethodArguments
-import com.dvpermyakov.dagger.utils.printDependencies
+import com.dvpermyakov.graph.utils.Instance
+import com.dvpermyakov.graph.utils.parseInstance
+import com.dvpermyakov.graph.utils.parseMethodArguments
+import com.dvpermyakov.graph.utils.printDependencies
 import org.objectweb.asm.MethodVisitor
 import org.objectweb.asm.Opcodes
 import java.util.*

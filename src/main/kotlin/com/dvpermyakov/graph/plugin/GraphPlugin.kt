@@ -1,6 +1,6 @@
-package com.dvpermyakov.dagger.plugin
+package com.dvpermyakov.graph.plugin
 
-import com.dvpermyakov.dagger.task.KDaggerComponentTask
+import com.dvpermyakov.graph.task.KDaggerComponentTask
 import org.gradle.api.Plugin
 import org.gradle.api.Project
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile

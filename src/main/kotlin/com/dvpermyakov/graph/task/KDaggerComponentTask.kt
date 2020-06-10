@@ -1,6 +1,6 @@
-package com.dvpermyakov.dagger.task
+package com.dvpermyakov.graph.task
 
-import com.dvpermyakov.dagger.visitors.InitMethodVisitor
+import com.dvpermyakov.graph.visitors.InitMethodVisitor
 import org.gradle.api.DefaultTask
 import org.gradle.api.tasks.Input
 import org.gradle.api.tasks.TaskAction
